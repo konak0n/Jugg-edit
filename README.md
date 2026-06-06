@@ -1,2 +1,3 @@
 # Jugg-edit
-Azusa jugg edit(unfinish) 
+Azusa jugg edit(unfinish)
+first edit on github
